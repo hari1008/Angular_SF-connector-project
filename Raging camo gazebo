@@ -1,0 +1,87 @@
+ionia-corporation/active_force
+Use Sales Force as an Active Model
+MIT license
+
+Updated on Jul 23, 2018
+
+ Ruby
+ 48
+twilio/twilio-salesforce
+A Salesforce/Force.com library for communicating with the Twilio REST API and generating TwiML. Need help? Post your …
+MIT license
+
+Updated 13 days ago
+
+ Apex
+ 165
+forcedotcom/SalesforceCanvasJavascriptSDK
+A JavaScript SDK used to integrate applications with the Force.com Canvas framework
+BSD-3-Clause license
+
+Updated on Jun 5, 2018
+
+ JavaScript
+ 26
+davispeixoto/Laravel-5-Salesforce
+Laravel 5 wrapper for Salesforce Force.com Toolkit SOAP API
+MIT license
+
+Updated on Dec 19, 2016
+
+ PHP
+ 44
+scottbcovert/Centralized-Salesforce-Dev-Framework
+Centralized Framework for Development on the Force.com Platform
+Apache-2.0 license
+
+Updated on Jul 19, 2018
+
+ Apex
+ 46
+electricimp/Salesforce
+Wrapper library for the Force.com REST API
+Updated on Jan 24
+
+ Squirrel
+ 11
+davispeixoto/Laravel-4-Salesforce
+Force.com Toolkit for PHP port for Laravel 4
+MIT license
+
+Updated on Oct 10, 2016
+
+ PHP
+ 14
+ChuckJonas/bad-ass-salesforce-stack
+B.A.S.S. Starter: react / redux / typescript / antd / ts-force / sfdx / webpack / salesforce
+antd
+redux
+sfdx-cli
+typescript
+hmr
+react
+webpack
+salesforce
+sfdx
+visualforce
+MIT license
+
+Updated 14 days ago
+
+ TypeScript
+ 48
+jeffdonthemic/node-red-contrib-salesforce
+A set of Node-RED nodes to interact with Salesforce and Force.com
+MIT license
+
+Updated on Feb 6, 2018
+
+ HTML
+ 10
+pozil/salesforce-node-client
+Node.js client library for Salesforce Force.com services
+Apache-2.0 license
+
+Updated on Dec 1, 2018
+
+ JavaScript
